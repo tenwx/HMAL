@@ -1,4 +1,4 @@
-package x.y.z.ui.ui.viewmodel
+package x.y.z.ui.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider

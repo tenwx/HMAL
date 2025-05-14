@@ -1,4 +1,4 @@
-package x.y.z.ui.ui.activity
+package x.y.z.ui.activity
 
 import android.annotation.SuppressLint
 import android.widget.ImageView

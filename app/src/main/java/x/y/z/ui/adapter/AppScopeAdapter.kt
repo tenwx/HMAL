@@ -1,4 +1,4 @@
-package x.y.z.ui.ui.adapter
+package x.y.z.ui.adapter
 
 import android.view.ViewGroup
 import x.y.z.ui.view.AppItemView

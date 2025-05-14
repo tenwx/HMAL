@@ -1,4 +1,4 @@
-package x.y.z.ui.ui.util
+package x.y.z.ui.util
 
 import android.widget.Toast
 import androidx.annotation.StringRes

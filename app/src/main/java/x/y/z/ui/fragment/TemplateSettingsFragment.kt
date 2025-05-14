@@ -1,4 +1,4 @@
-package x.y.z.ui.ui.fragment
+package x.y.z.ui.fragment
 
 import android.graphics.Color
 import android.os.Bundle

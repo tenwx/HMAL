@@ -1,4 +1,4 @@
-package x.y.z.ui.ui.view
+package x.y.z.ui.view
 
 import android.content.Context
 import android.util.AttributeSet

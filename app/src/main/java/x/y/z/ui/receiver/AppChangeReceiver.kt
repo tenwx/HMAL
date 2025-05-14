@@ -1,4 +1,4 @@
-package x.y.z.ui.ui.receiver
+package x.y.z.ui.receiver
 
 import android.content.BroadcastReceiver
 import android.content.Context
