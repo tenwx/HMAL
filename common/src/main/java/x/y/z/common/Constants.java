@@ -1,4 +1,4 @@
-package x.y.z.common.common;
+package x.y.z.common;
 
 import java.util.Set;
 

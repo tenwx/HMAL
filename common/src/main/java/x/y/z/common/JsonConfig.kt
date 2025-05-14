@@ -1,4 +1,4 @@
-package x.y.z.common.common
+package x.y.z.common
 
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.decodeFromString
