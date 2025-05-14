@@ -14,12 +14,12 @@ import by.kirich1409.viewbindingdelegate.viewBinding
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import com.google.android.hmal.R
 import com.google.android.hmal.databinding.FragmentSettingsBinding
-import com.android.hmal.common.JsonConfig
-import com.android.hmal.service.ConfigManager
-import com.android.hmal.ui.util.navController
-import com.android.hmal.ui.util.setupToolbar
-import com.android.hmal.ui.viewmodel.AppSettingsViewModel
-import com.android.hmal.util.PackageHelper
+import x.y.z.common.JsonConfig
+import x.y.z.service.ConfigManager
+import x.y.z.ui.util.navController
+import x.y.z.ui.util.setupToolbar
+import x.y.z.ui.viewmodel.AppSettingsViewModel
+import x.y.z.util.PackageHelper
 
 class AppSettingsFragment : Fragment(R.layout.fragment_settings) {
 

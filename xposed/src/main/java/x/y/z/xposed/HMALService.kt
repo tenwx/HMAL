@@ -3,8 +3,8 @@ package x.y.z.xposed.xposed
 import android.content.pm.ApplicationInfo
 import android.content.pm.IPackageManager
 import android.os.Build
-import com.android.hmal.common.*
-import com.android.hmal.xposed.hook.*
+import x.y.z.common.*
+import x.y.z.xposed.hook.*
 import java.io.File
 
 class HMALService(val pms: IPackageManager) : IHMALService.Stub() {

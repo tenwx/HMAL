@@ -2,7 +2,7 @@ package x.y.z.ui.ui.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.android.hmal.common.JsonConfig
+import x.y.z.common.JsonConfig
 
 class AppSettingsViewModel(val pack: Pack) : ViewModel() {
 

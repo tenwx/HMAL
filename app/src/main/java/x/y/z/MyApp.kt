@@ -4,10 +4,10 @@ import android.annotation.SuppressLint
 import android.app.Application
 import androidx.appcompat.app.AppCompatDelegate
 import com.google.android.hmal.R
-import com.android.hmal.service.ConfigManager
-import com.android.hmal.service.PrefManager
-import com.android.hmal.ui.receiver.AppChangeReceiver
-import com.android.hmal.ui.util.makeToast
+import x.y.z.service.ConfigManager
+import x.y.z.service.PrefManager
+import x.y.z.ui.receiver.AppChangeReceiver
+import x.y.z.ui.util.makeToast
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import me.zhanghai.android.appiconloader.AppIconLoader

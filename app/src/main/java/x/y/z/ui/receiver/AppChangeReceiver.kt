@@ -4,7 +4,7 @@ import android.content.BroadcastReceiver
 import android.content.Context
 import android.content.Intent
 import android.content.IntentFilter
-import com.android.hmal.util.PackageHelper
+import x.y.z.util.PackageHelper
 
 class AppChangeReceiver : BroadcastReceiver() {
 

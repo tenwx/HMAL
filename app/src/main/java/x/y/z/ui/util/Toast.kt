@@ -2,7 +2,7 @@ package x.y.z.ui.ui.util
 
 import android.widget.Toast
 import androidx.annotation.StringRes
-import com.android.hmal.sysApp
+import x.y.z.sysApp
 
 fun makeToast(@StringRes resId: Int) {
     Toast.makeText(sysApp, resId, Toast.LENGTH_SHORT).show()

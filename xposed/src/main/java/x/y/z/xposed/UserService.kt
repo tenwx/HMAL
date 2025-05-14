@@ -6,8 +6,8 @@ import android.content.pm.IPackageManager
 import android.os.Build
 import android.os.Bundle
 import android.os.ServiceManager
-import com.android.hmal.common.BuildConfig
-import com.android.hmal.common.Constants
+import x.y.z.common.BuildConfig
+import x.y.z.common.Constants
 import rikka.hidden.compat.ActivityManagerApis
 import rikka.hidden.compat.adapter.UidObserverAdapter
 

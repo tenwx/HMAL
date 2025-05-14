@@ -6,10 +6,10 @@ import com.github.kyuubiran.ezxhelper.utils.hookAfter
 import com.github.kyuubiran.ezxhelper.utils.invokeMethodAs
 import com.github.kyuubiran.ezxhelper.utils.loadClass
 import de.robv.android.xposed.XC_MethodHook
-import com.android.hmal.common.Constants
-import com.android.hmal.xposed.HMALService
-import com.android.hmal.xposed.Utils
-import com.android.hmal.xposed.Utils.getBinderCaller
+import x.y.z.common.Constants
+import x.y.z.xposed.HMALService
+import x.y.z.xposed.Utils
+import x.y.z.xposed.Utils.getBinderCaller
 import java.lang.reflect.Method
 
 class PmsHookLegacy(private val service: HMALService) : IFrameworkHook {

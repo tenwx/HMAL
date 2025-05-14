@@ -12,11 +12,11 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.google.android.hmal.R
 import com.google.android.hmal.databinding.FragmentAppSelectBinding
-import com.android.hmal.service.PrefManager
-import com.android.hmal.ui.adapter.AppSelectAdapter
-import com.android.hmal.ui.util.navController
-import com.android.hmal.ui.util.setupToolbar
-import com.android.hmal.util.PackageHelper
+import x.y.z.service.PrefManager
+import x.y.z.ui.adapter.AppSelectAdapter
+import x.y.z.ui.util.navController
+import x.y.z.ui.util.setupToolbar
+import x.y.z.util.PackageHelper
 import kotlinx.coroutines.launch
 
 abstract class AppSelectFragment : Fragment(R.layout.fragment_app_select) {

@@ -3,8 +3,8 @@ package x.y.z.ui.ui.adapter
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.hmal.R
-import com.android.hmal.service.ConfigManager
-import com.android.hmal.ui.view.ListItemView
+import x.y.z.service.ConfigManager
+import x.y.z.ui.view.ListItemView
 import java.text.Collator
 import java.util.*
 

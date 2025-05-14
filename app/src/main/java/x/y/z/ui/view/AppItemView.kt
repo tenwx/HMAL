@@ -6,7 +6,7 @@ import android.widget.LinearLayout
 import by.kirich1409.viewbindingdelegate.CreateMethod
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.google.android.hmal.databinding.AppItemViewBinding
-import com.android.hmal.util.PackageHelper
+import x.y.z.util.PackageHelper
 
 class AppItemView @JvmOverloads constructor(
     context: Context,

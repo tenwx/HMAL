@@ -15,15 +15,15 @@ import com.google.android.material.transition.MaterialElevationScale
 import com.google.android.hmal.BuildConfig
 import com.google.android.hmal.R
 import com.google.android.hmal.databinding.FragmentHomeBinding
-import com.android.hmal.sysApp
-import com.android.hmal.service.ConfigManager
-import com.android.hmal.service.ServiceClient
-import com.android.hmal.ui.activity.AboutActivity
-import com.android.hmal.ui.util.ThemeUtils.getColor
-import com.android.hmal.ui.util.ThemeUtils.themeColor
-import com.android.hmal.ui.util.makeToast
-import com.android.hmal.ui.util.navController
-import com.android.hmal.ui.util.setupToolbar
+import x.y.z.sysApp
+import x.y.z.service.ConfigManager
+import x.y.z.service.ServiceClient
+import x.y.z.ui.activity.AboutActivity
+import x.y.z.ui.util.ThemeUtils.getColor
+import x.y.z.ui.util.ThemeUtils.themeColor
+import x.y.z.ui.util.makeToast
+import x.y.z.ui.util.navController
+import x.y.z.ui.util.setupToolbar
 import java.io.IOException
 
 class HomeFragment : Fragment(R.layout.fragment_home) {

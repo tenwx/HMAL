@@ -3,9 +3,9 @@ package x.y.z.ui.ui.adapter
 import android.widget.Filter
 import android.widget.Filterable
 import androidx.recyclerview.widget.RecyclerView
-import com.android.hmal.service.PrefManager
-import com.android.hmal.ui.view.AppItemView
-import com.android.hmal.util.PackageHelper
+import x.y.z.service.PrefManager
+import x.y.z.ui.view.AppItemView
+import x.y.z.util.PackageHelper
 import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.runBlocking
 

@@ -9,7 +9,7 @@ import androidx.annotation.StyleRes
 import androidx.fragment.app.Fragment
 import com.google.android.material.color.DynamicColors
 import com.google.android.hmal.R
-import com.android.hmal.service.PrefManager
+import x.y.z.service.PrefManager
 import rikka.core.util.ResourceUtils
 
 object ThemeUtils {

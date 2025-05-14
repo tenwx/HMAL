@@ -1,8 +1,8 @@
 package x.y.z.ui.ui.adapter
 
 import android.view.ViewGroup
-import com.android.hmal.service.ConfigManager
-import com.android.hmal.ui.view.AppItemView
+import x.y.z.service.ConfigManager
+import x.y.z.ui.view.AppItemView
 
 class AppManageAdapter(
     private val onItemClickListener: (String) -> Unit

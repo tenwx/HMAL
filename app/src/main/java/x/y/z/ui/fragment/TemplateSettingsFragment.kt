@@ -13,10 +13,10 @@ import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import com.google.android.material.transition.MaterialContainerTransform
 import com.google.android.hmal.R
 import com.google.android.hmal.databinding.FragmentTemplateSettingsBinding
-import com.android.hmal.service.ConfigManager
-import com.android.hmal.ui.util.navController
-import com.android.hmal.ui.util.setupToolbar
-import com.android.hmal.ui.viewmodel.TemplateSettingsViewModel
+import x.y.z.service.ConfigManager
+import x.y.z.ui.util.navController
+import x.y.z.ui.util.setupToolbar
+import x.y.z.ui.viewmodel.TemplateSettingsViewModel
 import kotlinx.coroutines.launch
 
 class TemplateSettingsFragment : Fragment(R.layout.fragment_template_settings) {

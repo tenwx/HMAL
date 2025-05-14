@@ -6,8 +6,8 @@ import android.os.Build
 import com.github.kyuubiran.ezxhelper.utils.findMethod
 import com.github.kyuubiran.ezxhelper.utils.hookBefore
 import de.robv.android.xposed.XC_MethodHook
-import com.android.hmal.common.CommonUtils
-import com.android.hmal.xposed.HMALService
+import x.y.z.common.CommonUtils
+import x.y.z.xposed.HMALService
 
 @TargetApi(Build.VERSION_CODES.S)
 class ZygoteArgsHook(private val service: HMALService) : IFrameworkHook {

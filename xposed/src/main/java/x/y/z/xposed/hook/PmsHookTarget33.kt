@@ -5,8 +5,8 @@ import android.os.Build
 import com.github.kyuubiran.ezxhelper.utils.findMethod
 import com.github.kyuubiran.ezxhelper.utils.hookBefore
 import de.robv.android.xposed.XC_MethodHook
-import com.android.hmal.common.Constants
-import com.android.hmal.xposed.*
+import x.y.z.common.Constants
+import x.y.z.xposed.*
 import java.util.concurrent.atomic.AtomicReference
 
 @TargetApi(Build.VERSION_CODES.TIRAMISU)
