@@ -1,4 +1,4 @@
-package x.y.z.xposed.hook.xposed.hook
+package x.y.z.xposed.hook
 
 import android.content.ComponentName
 import android.content.Intent

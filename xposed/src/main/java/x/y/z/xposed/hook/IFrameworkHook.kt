@@ -1,4 +1,4 @@
-package x.y.z.xposed.hook.xposed.hook
+package x.y.z.xposed.hook
 
 interface IFrameworkHook {
 

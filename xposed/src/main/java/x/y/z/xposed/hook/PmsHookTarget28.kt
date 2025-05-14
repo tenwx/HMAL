@@ -1,4 +1,4 @@
-package x.y.z.xposed.hook.xposed.hook
+package x.y.z.xposed.hook
 
 import android.annotation.TargetApi
 import android.content.pm.ResolveInfo
