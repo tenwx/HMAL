@@ -1,4 +1,4 @@
-package x.y.z.xposed.xposed
+package x.y.z.xposed
 
 import android.content.pm.IPackageManager
 import com.github.kyuubiran.ezxhelper.init.EzXHelperInit

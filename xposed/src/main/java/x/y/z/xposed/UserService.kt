@@ -1,4 +1,4 @@
-package x.y.z.xposed.xposed
+package x.y.z.xposed
 
 import android.app.ActivityManagerHidden
 import android.content.AttributionSource
