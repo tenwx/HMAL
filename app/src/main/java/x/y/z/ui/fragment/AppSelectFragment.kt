@@ -10,8 +10,8 @@ import androidx.lifecycle.flowWithLifecycle
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
 import by.kirich1409.viewbindingdelegate.viewBinding
-import com.google.android.hmal.R
-import com.google.android.hmal.databinding.FragmentAppSelectBinding
+import x.y.z.R
+import x.y.z.databinding.FragmentAppSelectBinding
 import x.y.z.service.PrefManager
 import x.y.z.ui.adapter.AppSelectAdapter
 import x.y.z.ui.util.navController

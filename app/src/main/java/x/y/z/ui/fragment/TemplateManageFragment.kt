@@ -11,8 +11,8 @@ import androidx.navigation.fragment.FragmentNavigatorExtras
 import androidx.recyclerview.widget.LinearLayoutManager
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.google.android.material.transition.MaterialContainerTransform
-import com.google.android.hmal.R
-import com.google.android.hmal.databinding.FragmentTemplateManageBinding
+import x.y.z.R
+import x.y.z.databinding.FragmentTemplateManageBinding
 import x.y.z.common.JsonConfig
 import x.y.z.service.ConfigManager
 import x.y.z.ui.adapter.TemplateAdapter

@@ -12,8 +12,8 @@ import androidx.navigation.fragment.navArgs
 import androidx.preference.*
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
-import com.google.android.hmal.R
-import com.google.android.hmal.databinding.FragmentSettingsBinding
+import x.y.z.R
+import x.y.z.databinding.FragmentSettingsBinding
 import x.y.z.common.JsonConfig
 import x.y.z.service.ConfigManager
 import x.y.z.ui.util.navController
