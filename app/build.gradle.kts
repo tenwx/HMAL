@@ -18,7 +18,7 @@ if (officialBuild) {
 }
 
 android {
-    namespace = "com.google.android.hmal"
+    namespace = "x.y.z"
 
     buildFeatures {
         buildConfig = true
@@ -53,7 +53,7 @@ kotlin {
 autoResConfig {
     generateClass.set(true)
     generateRes.set(false)
-    generatedClassFullName.set("com.android.hmal.util.LangList")
+    generatedClassFullName.set("x.y.z.util.LangList")
     generatedArrayFirstItem.set("SYSTEM")
 }
 
