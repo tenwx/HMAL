@@ -1,5 +1,5 @@
 # Xposed
--keepclassmembers class com.android.hmal.MyApp {
+-keepclassmembers class x.y.z.MyApp {
     boolean isHooked;
 }
 

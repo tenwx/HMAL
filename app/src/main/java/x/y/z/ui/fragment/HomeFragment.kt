@@ -123,7 +123,7 @@ class HomeFragment : Fragment(R.layout.fragment_home) {
             binding.moduleStatus.setText(R.string.home_xposed_not_activated)
         }
         if (serviceVersion != 0) {
-            if (serviceVersion < com.android.hmal.common.BuildConfig.SERVICE_VERSION) {
+            if (serviceVersion < x.y.z.common.BuildConfig.SERVICE_VERSION) {
                 binding.serviceStatus.text = getString(R.string.home_xposed_service_old)
             } else {
                 binding.serviceStatus.text = getString(R.string.home_xposed_service_on, serviceVersion)
