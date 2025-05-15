@@ -12,9 +12,9 @@ import androidx.navigation.fragment.FragmentNavigatorExtras
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import com.google.android.material.transition.MaterialElevationScale
-import 1x.y.z.BuildConfig
-import 1x.y.z.R
-import 1x.y.z.databinding.FragmentHomeBinding
+import d.e.f.BuildConfig
+import d.e.f.R
+import d.e.f.databinding.FragmentHomeBinding
 import x.y.z.sysApp
 import x.y.z.service.ConfigManager
 import x.y.z.service.ServiceClient

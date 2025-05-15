@@ -3,7 +3,7 @@ package x.y.z
 import android.annotation.SuppressLint
 import android.app.Application
 import androidx.appcompat.app.AppCompatDelegate
-import 1x.y.z.R
+import d.e.f.R
 import x.y.z.service.ConfigManager
 import x.y.z.service.PrefManager
 import x.y.z.ui.receiver.AppChangeReceiver

@@ -1,7 +1,7 @@
 package x.y.z.service
 
 import android.os.Build
-import 1x.y.z.R
+import d.e.f.R
 import x.y.z.common.BuildConfig
 import x.y.z.common.JsonConfig
 import x.y.z.sysApp

@@ -11,8 +11,8 @@ import androidx.navigation.fragment.navArgs
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import com.google.android.material.transition.MaterialContainerTransform
-import 1x.y.z.R
-import 1x.y.z.databinding.FragmentTemplateSettingsBinding
+import d.e.f.R
+import d.e.f.databinding.FragmentTemplateSettingsBinding
 import x.y.z.service.ConfigManager
 import x.y.z.ui.util.navController
 import x.y.z.ui.util.setupToolbar

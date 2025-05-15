@@ -7,8 +7,8 @@ import androidx.navigation.Navigation
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.NavigationUI.setupWithNavController
 import com.google.android.material.color.DynamicColors
-import 1x.y.z.R
-import 1x.y.z.databinding.ActivityMainBinding
+import d.e.f.R
+import d.e.f.databinding.ActivityMainBinding
 import x.y.z.ui.util.ThemeUtils
 import rikka.material.app.MaterialActivity
 

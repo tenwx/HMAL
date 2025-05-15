@@ -5,7 +5,7 @@ import android.util.AttributeSet
 import android.widget.LinearLayout
 import by.kirich1409.viewbindingdelegate.CreateMethod
 import by.kirich1409.viewbindingdelegate.viewBinding
-import 1x.y.z.databinding.AppItemViewBinding
+import d.e.f.databinding.AppItemViewBinding
 import x.y.z.util.PackageHelper
 
 class AppItemView @JvmOverloads constructor(

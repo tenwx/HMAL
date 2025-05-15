@@ -10,8 +10,8 @@ import androidx.fragment.app.setFragmentResultListener
 import androidx.navigation.fragment.FragmentNavigatorExtras
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.google.android.material.transition.MaterialContainerTransform
-import 1x.y.z.R
-import 1x.y.z.databinding.FragmentTemplateManageBinding
+import d.e.f.R
+import d.e.f.databinding.FragmentTemplateManageBinding
 import x.y.z.common.JsonConfig
 import x.y.z.service.ConfigManager
 import x.y.z.ui.adapter.TemplateAdapter

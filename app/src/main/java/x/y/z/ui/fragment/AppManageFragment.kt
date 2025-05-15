@@ -2,7 +2,7 @@ package x.y.z.ui.fragment
 
 import android.os.Bundle
 import com.google.android.material.transition.MaterialSharedAxis
-import 1x.y.z.R
+import d.e.f.R
 import x.y.z.service.ConfigManager
 import x.y.z.ui.adapter.AppManageAdapter
 import x.y.z.ui.util.navController
