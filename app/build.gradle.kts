@@ -18,7 +18,7 @@ if (officialBuild) {
 }
 
 android {
-    namespace = "x.y.z"
+    namespace = "1x.y.z"
 
     buildFeatures {
         buildConfig = true

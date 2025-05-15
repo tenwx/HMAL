@@ -42,7 +42,7 @@
 
         <provider
             android:name="x.y.z.service.ServiceProvider"
-            android:authorities="x.y.z.ServiceProvider"
+            android:authorities="1x.y.z.ServiceProvider"
             android:exported="true"
             tools:ignore="ExportedContentProvider" />
 

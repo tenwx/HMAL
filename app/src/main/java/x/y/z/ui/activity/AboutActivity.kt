@@ -4,8 +4,8 @@ import android.annotation.SuppressLint
 import android.widget.ImageView
 import android.widget.TextView
 import com.drakeet.about.*
-import x.y.z.BuildConfig
-import x.y.z.R
+import 1x.y.z.BuildConfig
+import 1x.y.z.R
 
 class AboutActivity : AbsAboutActivity() {
 
