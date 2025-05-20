@@ -10,6 +10,6 @@
 }
 
 -keep,allowoptimization class * extends androidx.preference.PreferenceFragmentCompat
--keepclassmembers class com.google.android.hmal.databinding.**  {
+-keepclassmembers class d.e.f.databinding.**  {
     public <methods>;
 }

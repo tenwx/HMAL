@@ -23,7 +23,7 @@ class XposedEntry : IXposedHookZygoteInit, IXposedHookLoadPackage {
         if (lpparam.packageName == Constants.APP_PACKAGE_NAME) {
             EzXHelperInit.initHandleLoadPackage(lpparam)
             hookAllConstructorAfter("x.y.z.MyApp") {
-                getFieldByDesc("Lcom/android/hmal/MyApp;->isHooked:Z").setBoolean(it.thisObject, true)
+                getFieldByDesc("Lx/y/z/MyApp;->isHooked:Z").setBoolean(it.thisObject, true)
             }
         } else if (lpparam.packageName == "android") {
             EzXHelperInit.initHandleLoadPackage(lpparam)
